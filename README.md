@@ -1,4 +1,5 @@
 # cloud-itonami-isco-1112
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 1112. This app is not produced, reviewed or endorsed by the ILO.
 
 Open Occupation Blueprint for **ISCO-08 1112**: Senior Government Officials.
 
